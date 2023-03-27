@@ -1,0 +1,3 @@
+SELECT *
+FROM City
+ORDER BY 1;
